@@ -52,10 +52,13 @@ Beta wins: 127 games (12.7%)
 Draw: 462 games (46.2%)
 Most common strategy pair: ('Early', 'Wait') -> 411 times
 
-![Sample1](SYSTM-JFill/coordination-game-simulator/blob/main/OutputChartSample1.png)
-![Sample2](SYSTM-JFill/coordination-game-simulator/blob/main/OutputChartSample2.png)
-![Sample3](SYSTM-JFill/coordination-game-simulator/blob/main/OutputChartSample3.png)
-![Sample4](SYSTM-JFill/coordination-game-simulator/blob/main/OutputChartSample4.png)
+![Sample1](OutputChartSample1.png)
+
+![Sample2](OutputChartSample2.png)
+
+![Sample3](OutputChartSample3.png)
+
+![Sample4](OutputChartSample4.png)
 
 
 ---
