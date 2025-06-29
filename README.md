@@ -45,11 +45,17 @@ Mutual waiting yields moderate stability, but miscoordination favors one partyâ€
 ---
 
 ## ðŸ§ª Example Output
+
 === Simulation Summary ===
+
 Total Games: 1000
+
 Alpha wins: 411 games (41.1%)
+
 Beta wins: 127 games (12.7%)
+
 Draw: 462 games (46.2%)
+
 Most common strategy pair: ('Early', 'Wait') -> 411 times
 
 ![Sample1](OutputChartSample1.png)
